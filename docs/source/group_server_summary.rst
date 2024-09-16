@@ -31,6 +31,6 @@ There are two servers available for use and the configuration are shown as below
 
 General Rule
 ----------------------
-* Never use ``sudo`` or ``su`` unless you approval from both Professor and RHCSA.
-* If any of server is in high utilization and you need computation resources, contact Dr. Zoe Li or Tianshuo Li for coordination.
-* Please use server 2 for computation tasks required GPU (e.g. modeling training, parallel processing), and server 1 for other tasks (e.g. downloading data, file processing). The disk on both server are shareable so please do not worry about data transferring stuff.
+* Never use ``sudo`` or ``su`` uunless you have approval from both the Professor and RHCSA.
+* If any of the servers are in high utilization and you need computation resources, contact Dr. Zoe Li or Tianshuo Li for coordination.
+* Please use server 2 for computation tasks requiring GPU (e.g. modeling training, parallel processing), and server 1 for other tasks (e.g. downloading data, file processing). The disks on both servers are shareable so please do not worry about data transferring stuff.
