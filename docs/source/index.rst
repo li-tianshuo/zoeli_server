@@ -1,6 +1,7 @@
 Welcome to Dr. Zoe Li's Documentation Hub!
 ===================================
 
+
 This information hub is in order to provide information, tutorials, suggestions for using group server and programming optimization.
 
 .. note::
@@ -18,3 +19,4 @@ Contents
    software
    tutorials
    usage
+   optimize
